@@ -21,7 +21,8 @@ go to the local folder of the repos cloned from the github, input those commands
 
 
  git init  
- git remote set-url origin https://xiaoke_shen@bitbucket.org/xiaoke_shen/faster-rcnn_tf.git
+ git remote set-url origin https://xiaoke_shen@bitbucket.org/xiaoke_shen/faster-rcnn_tf.git     
+ 
  git remote add personal https://xiaoke_shen@bitbucket.org/xiaoke_shen/faster-rcnn_tf.git    
  git add --all    
  git commit    
